@@ -16,7 +16,7 @@ interface LoginFormData {
 }
 
 export const initValues: LoginFormData = {
-  email: 'hello@altence.com',
+  email: 'frankyan.work@gmail.com',
   password: 'some-test-pass',
 };
 

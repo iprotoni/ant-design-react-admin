@@ -7,7 +7,7 @@ React-powered **100% FREE** Admin Dashboard Template for building rich user inte
 </p>
 
 ### Demo
-Check out a [live demo](https://altence.com/lightence-landing).
+Check out a [live demo](https://altence.com/medical-landing).
 
 ## Key Features
 - 🚀 This solution allows you to reduce MVP development costs by up to 40%
@@ -44,7 +44,7 @@ Check out a [live demo](https://altence.com/lightence-landing).
 #### To go with the latest version please copy and past in your terminal the following steps
 
 ```
-git clone https://github.com/altence/lightence-ant-design-react-template.git my-awesome-project && cd my-awesome-project
+git clone https://github.com/altence/medical-ant-design-react-template.git my-awesome-project && cd my-awesome-project
 ```
 
 Development mode
@@ -65,7 +65,7 @@ yarn install && yarn build --stats
 And then use the [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) to open _build/bundle-stats.json_.
 
 ### Where to get help
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:lightence.admin@altence.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:medical.admin@altence.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/altence_team)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/YBSrDrGe)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/groups/altence)
@@ -77,7 +77,7 @@ Let’s create great products together! We encourage and welcome collaboration a
 If you use **Lightence** in your app development, please, let us know, and we’ll showcase your work to provide more awareness to your product.
 
 ### Components by request
-As our admin system with a medical dashboard is fully customizable, we understand that you might need more components than it currently has. In case you didn't find a needed component inside Lightence, [contact us](mailto:lightence.admin@altence.com) to order it.
+As our admin system with a medical dashboard is fully customizable, we understand that you might need more components than it currently has. In case you didn't find a needed component inside Lightence, [contact us](mailto:medical.admin@altence.com) to order it.
 
 ### How you can give a shout-out to us
 
@@ -88,4 +88,4 @@ As our admin system with a medical dashboard is fully customizable, we understan
 - 🔥 Follow us on [Twitter](https://twitter.com/altence_team) and [LinkedIn](https://linkedin.com/company/altence)
 
 ### Need developers’ help?
-At [Altence](https://altence.com), we are always ready to get your feedback or give you advice if needed. We can also become your partner in development in case you need help with your projects. Drop us a line ([email](mailto:lightence.admin@altence.com)) and we’ll get back to you shortly.
+At [Altence](https://altence.com), we are always ready to get your feedback or give you advice if needed. We can also become your partner in development in case you need help with your projects. Drop us a line ([email](mailto:medical.admin@altence.com)) and we’ll get back to you shortly.

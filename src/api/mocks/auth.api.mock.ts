@@ -2,7 +2,7 @@ import { httpApiMock } from '@app/api/mocks/http.api.mock';
 import { AuthData } from '@app/api/auth.api';
 import { initValues } from '@app/components/auth/LoginForm/LoginForm';
 
-const avatarImg = process.env.REACT_APP_ASSETS_BUCKET + '/avatars/avatar5.webp';
+const avatarImg = 'https://avatars.githubusercontent.com/u/1109591?v=4';
 
 httpApiMock.onPost('login').reply((config) => {
   const data: AuthData = JSON.parse(config.data || '');
@@ -13,12 +13,12 @@ httpApiMock.onPost('login').reply((config) => {
         token: 'bearerToken',
         user: {
           id: 1,
-          firstName: 'Chris',
-          lastName: 'Johnson',
+          firstName: 'Frank',
+          lastName: 'Yan',
           imgUrl: avatarImg,
-          userName: '@john1989',
+          userName: '@yantao0527',
           email: {
-            name: 'chris.johnson@altence.com',
+            name: 'frankyan.work@gmail.com',
             verified: false,
           },
           phone: {
@@ -26,7 +26,7 @@ httpApiMock.onPost('login').reply((config) => {
             verified: true,
           },
           sex: 'male',
-          birthday: '01/26/2022',
+          birthday: '01/26/2023',
           lang: 'en',
           country: 'GB',
           city: 'London',

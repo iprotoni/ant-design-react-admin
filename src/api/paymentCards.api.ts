@@ -35,7 +35,7 @@ export const getPaymentCards = (id: number): Promise<PaymentCard[]> =>
             isEdit: false,
           },
           {
-            name: 'Christopher Johnson',
+            name: 'Frank Yan',
             cvc: '222',
             expiry: '09/24',
             number: '5205 0024 2535 5235',

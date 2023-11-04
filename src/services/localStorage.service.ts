@@ -1,14 +1,14 @@
 import { UserModel } from '@app/domain/UserModel';
-const avatarImg = process.env.REACT_APP_ASSETS_BUCKET + '/avatars/avatar5.webp';
+const avatarImg = 'https://avatars.githubusercontent.com/u/1109591?v=4';
 
 const testUser = {
   id: 1,
-  firstName: 'Chris',
-  lastName: 'Johnson',
+  firstName: 'Frank',
+  lastName: 'Yan',
   imgUrl: avatarImg,
-  userName: '@john1989',
+  userName: '@yantao0527',
   email: {
-    name: 'chris.johnson@altence.com',
+    name: 'frankyan.work@gmail.com',
     verified: true,
   },
   phone: {
@@ -16,7 +16,7 @@ const testUser = {
     verified: false,
   },
   sex: 'male',
-  birthday: '01/26/2022',
+  birthday: '01/26/2023',
   lang: 'en',
   country: 'GB',
   city: 'London',
