@@ -1,9 +1,9 @@
-# Lightence
+# Medicine
 
 React-powered **100% FREE** Admin Dashboard Template for building rich user interfaces significantly faster. For developers of all levels. Open-source and maintained by the [Altence](https://altence.com) team.
 
 <p align="center">
-    <img src="./public/Lightence-screenshot.png" alt="Lightence Admin Template">
+    <img src="./public/Medicine-screenshot.png" alt="Medicine Admin Template">
 </p>
 
 ### Demo
@@ -11,7 +11,7 @@ Check out a [live demo](https://altence.com/medical-landing).
 
 ## Key Features
 - 🚀 This solution allows you to reduce MVP development costs by up to 40%
-- 🐜 Lightence admin dashboard template is based on a rich library powered by [Ant Design](https://ant.design/)
+- 🐜 Medicine admin dashboard template is based on a rich library powered by [Ant Design](https://ant.design/)
 - 💰 100% Free: start using it for your projects right away. No hidden payments, no trials, nothing
 - 💊 Medical dashboard includes: customizable medical dashboard for data-driven applications
 - 💻 Any backend supported: the dashboard supports any kind of backend by just updating an API
@@ -74,17 +74,17 @@ And then use the [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack
 Let’s create great products together! We encourage and welcome collaboration and any type of contribution. 👉 Learn the [contributing docs](CONTRIBUTING.md) on how to contribute the right way.
 
 ### Want to get popular?
-If you use **Lightence** in your app development, please, let us know, and we’ll showcase your work to provide more awareness to your product.
+If you use **Medicine** in your app development, please, let us know, and we’ll showcase your work to provide more awareness to your product.
 
 ### Components by request
-As our admin system with a medical dashboard is fully customizable, we understand that you might need more components than it currently has. In case you didn't find a needed component inside Lightence, [contact us](mailto:medical.admin@altence.com) to order it.
+As our admin system with a medical dashboard is fully customizable, we understand that you might need more components than it currently has. In case you didn't find a needed component inside Medicine, [contact us](mailto:medical.admin@altence.com) to order it.
 
 ### How you can give a shout-out to us
 
-- 🏗️ Make your disruptive products with Lightence
+- 🏗️ Make your disruptive products with Medicine
 - ⭐ Star our GitHub repo
 - 🐞 Create requests, submit bugs, suggest new features
-- ☄️ Spread the word and share links about **Lightence** on social media
+- ☄️ Spread the word and share links about **Medicine** on social media
 - 🔥 Follow us on [Twitter](https://twitter.com/altence_team) and [LinkedIn](https://linkedin.com/company/altence)
 
 ### Need developers’ help?

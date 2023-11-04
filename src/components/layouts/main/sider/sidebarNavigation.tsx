@@ -31,7 +31,7 @@ export const sidebarNavigation: SidebarNavigationItem[] = [
   {
     title: 'common.medical-dashboard',
     key: 'medical-dashboard',
-    url: '/medical-dashboard',
+    url: '/',
     icon: <DashboardOutlined />,
   },
   {
@@ -126,11 +126,6 @@ export const sidebarNavigation: SidebarNavigationItem[] = [
         title: 'common.reactSimpleMaps',
         key: 'react-simple-maps',
         url: '/maps/react-simple-maps',
-      },
-      {
-        title: 'common.pigeonMaps',
-        key: 'pigeon-maps',
-        url: '/maps/pigeon-maps',
       },
     ],
   },
